@@ -68,5 +68,6 @@ The dataset was obtained from Kaggle.
 **Dataset:** Beauty Supply Chain Analytics (SQL)
 
 ---
+## 8. Project Status
 
-**Project Status:** Completed
+This project is completed as an initial analysis and is open to further review, improvements, and future enhancements.
